@@ -1,7 +1,9 @@
 # Finger Dasher - Multiplayer Tapping Game
 
 Welcome to Finger Dasher, an exciting multiplayer game where players compete to dominate the screen by tapping as fast as they can. Get ready to challenge your friends and see who can score the most points!
-
+![Simulator Screenshot - iPhone 15 - 2024-05-25 at 20 41 54](https://github.com/RNNivash/Chat_Nests/assets/90308206/1e72422a-3bed-4091-806e-1cdb72bb1834)
+![Simulator Screenshot - iPhone 15 - 2024-05-25 at 20 42 09](https://github.com/RNNivash/Chat_Nests/assets/90308206/1fb1e9c4-9d8f-4e4b-a003-a3e2e604f761)
+![Simulator Screenshot - iPhone 15 - 2024-05-25 at 20 43 37](https://github.com/RNNivash/Chat_Nests/assets/90308206/5e221d84-1522-4a19-bf53-e2c4f09edda6)
 
 ## Features
 
